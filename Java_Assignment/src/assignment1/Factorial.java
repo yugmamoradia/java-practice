@@ -1,4 +1,4 @@
-/**
+package assignment1; /**
  * Created by ravi on 1/11/18.
  */
 
@@ -17,13 +17,13 @@ public class Factorial {
         num = sc.nextInt();
 
         if(num==0 || num==1){
-            System.out.println("Factorial is 1");
+            System.out.println("assignment1.Factorial is 1");
         }
         else{
             for(int i=1; i<=num; i++){
                 result *= i;
             }
-            System.out.println("Factorial is: "+result);
+            System.out.println("assignment1.Factorial is: "+result);
         }
     }
 
