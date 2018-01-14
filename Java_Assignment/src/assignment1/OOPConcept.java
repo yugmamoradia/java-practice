@@ -7,7 +7,7 @@ public class OOPConcept {
     }
 }
 
-class Application{
+class   Application{
     /**Instance Variable*/
     String firstName;
     String lastName;

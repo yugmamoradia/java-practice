@@ -1,10 +1,6 @@
 package assignment1;
 
 /**
- * Created by ravi on 1/11/18.
- */
-
-/**
  * Exercise 2:
  read two values a,b and repeat a loop from a to b and display value and their square values.
  output e.g:
