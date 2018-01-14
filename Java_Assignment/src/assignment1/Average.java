@@ -1,6 +1,4 @@
-package assignment1; /**
- * Created by ravi on 1/11/18.
- */
+package assignment1;
 
 /**
  * Your university asked you to develop a java application to calculate the average of the student's performance.

@@ -1,6 +1,4 @@
-package assignment1; /**
- * Created by ravi on 1/11/18.
- */
+package assignment1;
 
 /**Program 1:
  * Write a program which calculate the Discount(5%) price for an Item.

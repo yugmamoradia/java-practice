@@ -1,6 +1,4 @@
-package assignment1; /**
- * Created by ravi on 1/11/18.
- */
+package assignment1;
 
 /**Create a payroll program for the part-time employee.
 display no of hours he/she worked, pay rate value and pay rate per month.

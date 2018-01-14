@@ -1,6 +1,4 @@
-package assignment1; /**
- * Created by yugma on 1/11/18.
- */
+package assignment1;
 
 /**
  * Find roots for the following quadratic equation.

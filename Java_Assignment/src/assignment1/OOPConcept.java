@@ -1,8 +1,5 @@
 package assignment1;
 
-/**
- * Created by ravi on 1/11/18.
- */
 public class OOPConcept {
     public static void main(String[] args) {
         Application application = new Application();
@@ -31,7 +28,6 @@ class Application{
         System.out.println("Last name: "+lastName);
         System.out.println("Year of birth: "+year);
         System.out.println("salary: "+salary);
-
 
     }
 }

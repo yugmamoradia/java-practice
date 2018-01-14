@@ -1,6 +1,4 @@
-package assignment1; /**
- * Created by ravi on 1/11/18.
- */
+package assignment1;
 
 /**
  * Find result for the following quadratic equation
